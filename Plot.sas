@@ -16,3 +16,7 @@ proc plot data=crack;
   plot load * age = "*";
 run;
 data means;
+
+proc means;
+
+run;
