@@ -15,3 +15,4 @@ data crack;
 proc plot data=crack;
   plot load * age = "*";
 run;
+data means;
