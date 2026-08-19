@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_scatterplot_reg",
+  "source_file": "Scatterplot.sas",
+  "source_blob_sha": "93fc628d982d9c34e00b02b89a7856e0be9f8f74",
+  "source_commit": "4030d228f50bdeb4aa76d3588fe72c5c4d96283c",
+  "notes": "Simple linear regression (PROC REG, load ~ age) on the crack specimen dataset, with an OUTPUT OUT= dataset feeding a PROC PLOT overlay of observed vs. predicted load. Fully self-contained inline DATALINES; shipped unmodified except for the standard obs=100 autoexec cap."
+}
