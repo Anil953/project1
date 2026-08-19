@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_plot_scatter",
+  "source_file": "Plot.sas",
+  "source_blob_sha": "a56866e2a77fe66c09cc8c7141839d655bc3ee8e",
+  "source_commit": "4030d228f50bdeb4aa76d3588fe72c5c4d96283c",
+  "notes": "Single-series PROC PLOT of load*age on the crack specimen dataset (character-plot in batch mode). The source file's trailing 'data means; proc means; run;' fragment is incomplete in the author's original (no columns assigned to the means dataset, so PROC MEANS legitimately warns 'No observations in input data' on Jenner too) and was left out of the runnable bundle; the plotting portion above is unmodified except for the standard obs=100 autoexec cap."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_probabilitytest",
+  "source_file": "Probabalitytest.sas",
+  "source_blob_sha": "c5e12d1fb7cd3e87c04f492d5e38d1fb27016ad8",
+  "source_commit": "4030d228f50bdeb4aa76d3588fe72c5c4d96283c",
+  "notes": "Computes a one-sided normal tail probability with PROBNORM and prints it with PROC PRINT. Fully self-contained (no external data); shipped unmodified except for the standard obs=100 autoexec cap."
+}
